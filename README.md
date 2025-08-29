@@ -17,3 +17,4 @@
 |<a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> ASP.NET Core - June 2021 </a>| <a href="https://softuni.bg/certificates/details/113383/fe5da578"> :heavy_check_mark:  Certificate</a> |
 |<a href="https://softuni.bg/trainings/3487/js-advanced-september-2021"> JS Advanced - September 2021 </a>| <a href="https://softuni.bg/certificates/details/114763/97af9038"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3488/js-applications-october-2021"> JS Applications - October 2021 </a>| <a href="https://softuni.bg/certificates/details/120864/bd6c255e"> :heavy_check_mark: Certificate</a> |
+|<a href="https://softuni.bg/trainings/4961/software-engineering-and-devops-may-2025"> Software Engineering and DevOps - May 2025 </a>| <a href="https://softuni.bg/certificates/details/250171/6fcdd12e"> :heavy_check_mark: Certificate</a> |
